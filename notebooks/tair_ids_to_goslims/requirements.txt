@@ -1,0 +1,2 @@
+goatools==1.4.12
+unipressed==1.4.0
